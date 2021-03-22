@@ -6,7 +6,7 @@
     <div class="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
         <img src="@/assets/svgs/1.svg" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"/>
-        <span class="ml-3 text-xl">Abdur Rahman Alizada</span>
+        <span class="ml-3 text-xl">UN</span>
       </a>
     
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">

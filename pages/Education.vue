@@ -1,7 +1,7 @@
 <template>
 
         <section class="text-gray-600 lg:h-screen mb-20 body-font mt-5">
-         <h1 class="font-bold heading text-4xl font-black flex items-center justify-center">My Education Journey</h1>
+         <h1 class="font-bold heading text-4xl font-black flex items-center justify-center">My Education</h1>
        <div class="flex">
          <img src="@/assets/svgs/4.svg" class="w-1/3 animate-pulse"/>
    <div class="container px-5 mx-auto flex flex-wrap w-2/3">
@@ -19,12 +19,12 @@
       </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">F.sc Pre-Engineering</h2>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">B.sc Software Engineering</h2>
           <p class="leading-relaxed flex inline-flex items-center">
             <svg class="w-5 h-6 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
             </svg>
-             <span class="inline-flex">Peshawar, Pakistan </span>
+             <span class="inline-flex">UET Mardan, Pakistan </span>
             </p>
         </div>
       </div>
@@ -43,12 +43,12 @@
       </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">B.sc Computer Software Engineering</h2>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">F.sc (Comp.Sci)</h2>
           <p class="leading-relaxed flex inline-flex items-center">
             <svg class="w-5 h-6 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
             </svg>
-             <span class="inline-flex">Mardan, Pakistan </span>
+             <span class="inline-flex">Haripur, Pakistan </span>
             </p>
         </div>
       </div>

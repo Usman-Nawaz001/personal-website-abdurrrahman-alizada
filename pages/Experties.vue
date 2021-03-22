@@ -3,7 +3,7 @@
         <section class="text-gray-600 body-font">
   <div class="container px-5 py-20  ml-auto">
     <div class="text-center mb-20">
-      <h1 class="sm:text-3xl heading text-2xl font-bold text-center title-font text-gray-900 mb-4">I'm an Expert in Following Technologies</h1>
+      <h1 class="sm:text-3xl heading text-2xl font-bold text-center title-font text-gray-900 mb-4">These are my expertise which I had learnt so for</h1>
     </div>
     <div class="flex ">
    <img class="w-1/2 hidden md:block -p-5" src="@/assets/svgs/ex.svg"/>
@@ -41,7 +41,7 @@
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">React js</span>
+          <span class="title-font font-medium">Python</span>
         </div>
       </div>
       <div class="p-2 sm:w-1/2 w-full">
@@ -59,7 +59,7 @@
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="title-font font-medium">Object Oriented Programming</span>
+          <span class="title-font font-medium">NuxtJs</span>
         </div>
       </div>
     </div>

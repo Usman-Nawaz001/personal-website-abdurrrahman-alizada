@@ -1,7 +1,11 @@
 export default {
+  target: 'static',
+  router: {
+    base: '/personal-website-Usman-Nawaz001/'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'personal-website',
+    title: 'Usman Nawaz',
     htmlAttrs: {
       lang: 'en'
     },

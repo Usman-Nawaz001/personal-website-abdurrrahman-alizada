@@ -3,7 +3,7 @@
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
       <img src="@/assets/svgs/1.svg" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"/>
-      <span class="ml-3 text-xl">Abdur Rahman Alizada</span>
+      <span class="ml-3 text-xl">UN</span>
     </a>
 
     <nav class="md:ml-auto md:mr-auto   ">
@@ -12,11 +12,11 @@
       <NuxtLink to="/" class="text-black mr-5 hover:text-blue-700">Home</NuxtLink>
     </li>
     <li>  
-      <NuxtLink to="/experties" class="text-black mr-5 hover:text-blue-700">My Experties</NuxtLink>
+      <NuxtLink to="/experties" class="text-black mr-5 hover:text-blue-700">Experties</NuxtLink>
     </li>
 
     <li>  
-      <NuxtLink to="/projects" class="text-black mr-5 hover:text-blue-700">My Projects</NuxtLink>
+      <NuxtLink to="/projects" class="text-black mr-5 hover:text-blue-700">Projects</NuxtLink>
     </li>
     <li>
       <NuxtLink to="/Education" class="text-black mr-5 hover:text-blue-700">Education</NuxtLink>
@@ -32,6 +32,7 @@
  </main>
   </div>
 </header>
+
 </template>
 
 <script>
